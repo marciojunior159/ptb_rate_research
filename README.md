@@ -1,6 +1,6 @@
 # Stratification of Preterm Birth Risk in Brazil Through Unsupervised Learning Methods and Socioeconomic Data
 
-This repository contains the main codes/notebooks and files used for the making of this Master's research.
+This repository contains the main codes/notebooks and files used in the making of this Master's research.
 
 - Author: `Márcio Lopes Jr`
 - Area of Study: `Intelligent Information Processing`
@@ -12,3 +12,16 @@ Preterm birth (PTB) is a phenomenon that brings risks and challenges for the sur
 
 **Keywords**: `Preterm birth`, `Clustering`, `Unsupervised learning`, `PTB risk`, `k-Means`,
 `Self-Organising Maps`, `Brazil`.
+
+## Organisation
+
+- Preprocessing Notebooks:
+   1. [PTB Rate Dataset](https://github.com/marciojunior159/ptb_rate_research/blob/main/(PTB-Research)%20PTB%20Rate%20Dataset.ipynb)
+   2. [Socioeconomic Dataset](https://github.com/marciojunior159/ptb_rate_research/blob/main/(PTB-Research)%20Socioeconomic%20Dataset.ipynb)
+- k-Means Method:
+   1. [k-Means](https://github.com/marciojunior159/ptb_rate_research/blob/main/(PTB-Research)%20kMeans.ipynb)
+   2. [DBSCAN](https://github.com/marciojunior159/ptb_rate_research/blob/main/(PTB-Research)%20DBSCAN.ipynb)
+- SOM Method:
+   1. [SOM/Hierarchical Clustering](https://github.com/marciojunior159/ptb_rate_research/blob/main/(PTB-Research)%20SOM.ipynb)
+
+> PS: The notebooks containing the generated plots will be added soon
