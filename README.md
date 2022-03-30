@@ -1,6 +1,8 @@
-# Stratification of Preterm Birth Risk in Brazil Through Unsupervised Learning Methods and Socioeconomic Data
+# PTB and SES Research
 
-This repository contains the main codes/notebooks and files used in the making of this Master's research.
+
+This repository contains the main codes/notebooks and files used in the making of the Master's research *Stratification of Preterm Birth Risk in Brazil Through Unsupervised Learning Methods and Socioeconomic Data*.
+
 
 - Author: `Márcio Lopes Jr`
 - Area of Study: `Intelligent Information Processing`
